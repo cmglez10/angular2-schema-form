@@ -1,7 +1,7 @@
 {
-  "name": "angular2-schema-form",
-  "version": "1.2.0",
-  "description": "Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form)",
+  "name": "angular2-schema-form-no-reduce",
+  "version": "1.2.3",
+  "description": "Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form) without reduce function. It sends all fields, even the emty ones",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/makinacorpus/angular2-schema-form"
+    "url": "git+https://github.com/cmglez10/angular2-schema-form"
   },
   "keywords": [
     "angularjs",
@@ -30,13 +30,10 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/makinacorpus/angular2-schema-form/issues"
+    "url": "https://github.com/cmglez10/angular2-schema-form/issues"
   },
   "contributors": [
-    "Frank Bessou <fbessou@free.fr>",
-    "Eric Brehault <ebrehault@gmail.com>",
-    "Simon Bats <contact@simonbats.com>",
-    "Ramon Navarro Bosch <ramon.nb@gmail.com>"
+    "César González <cmglez10@gmail.com>"
   ],
   "dependencies": {
     "@angular/animations": "^5.1.2",

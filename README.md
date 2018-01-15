@@ -1,6 +1,6 @@
 # Angular2 Schema Form No Reduce
 
-This is a forked project from (https://www.npmjs.com/package/angular2-schema-form)
+This is a forked project from [angular2-schema-form](https://www.npmjs.com/package/angular2-schema-form)
 
 The only difference is:
 * A form will send empty fields with an empty value.

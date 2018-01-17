@@ -1,6 +1,6 @@
 {
   "name": "angular2-schema-form-no-reduce",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form) without reduce function. It sends all fields, even the emty ones",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
